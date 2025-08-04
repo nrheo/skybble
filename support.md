@@ -4,7 +4,7 @@ Welcome to the Skybble support page! We're here to help you make the most of you
 
 ---
 
-## 📌 Frequently Asked Questions
+## Frequently Asked Questions
 
 ### 💭 How do I make a new cloud?
 
