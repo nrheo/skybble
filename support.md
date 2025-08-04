@@ -59,7 +59,7 @@ Email us anytime at **skybbleapp@gmail.com**, and we’ll get back to you as soo
 
 ## 🔒 Privacy Policy
 
-You can read our [Privacy Policy](https://github.com/nrheo/skybble/edit/main/privacy-policy.md) to learn more about how we handle data and protect your privacy.
+You can read our [Privacy Policy](https://github.com/nrheo/skybble/blob/main/privacy-policy.md) to learn more about how we handle data and protect your privacy.
 
 ---
 
