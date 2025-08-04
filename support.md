@@ -8,7 +8,7 @@ Welcome to the Skybble support page! We're here to help you make the most of you
 
 ### 💭 How do I make a new cloud?
 
-To create a new note, go to the **menu bar** at the top of your screen. Then click **NEW** and choose your desired cloud shape from the list — your new note will appear on your desktop instantly. Each cloud shape offers a unique look and vibe, so pick the one that fits your style or mood.
+To create a new note, go to the **menu bar** at the top of your screen. Then click **New** and choose your desired cloud shape from the list — your new note will appear on your desktop instantly. Each cloud shape offers a unique look and vibe, so pick the one that fits your style or mood.
 
 ---
 
