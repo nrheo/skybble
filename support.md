@@ -44,7 +44,7 @@ Skybble cloud notes appear directly on your desktop and float (or stay pinned) i
 ## 💡 Tips & Troubleshooting
 
 - **Notes not floating?** Make sure you’ve toggled animation **on** for the note (via its icon), then go to the menu bar and select **Start Animation**.
-- **Accidentally closed the home window?** No worries — click the **Skybble icon in your menu bar** to reopen it.
+- **Accidentally closed the home window?** No worries — click the **Skybble icon in your dock** to reopen it.
 - **Want to delete a note?** Click the **X** button on the corner of the cloud to remove it from your screen.
 - **Customizations not applying?** Ensure the note you want to update is the most recently clicked (active) cloud.
 
@@ -53,16 +53,16 @@ Skybble cloud notes appear directly on your desktop and float (or stay pinned) i
 ## 📬 Contact Us
 
 Still need help or want to share feedback?  
-Email us anytime at **support@skybble.app**, and we’ll get back to you as soon as possible.
+Email us anytime at **skybbleapp@gmail.com**, and we’ll get back to you as soon as possible.
 
 ---
 
 ## 🔒 Privacy Policy
 
-You can read our [Privacy Policy](https://yourdomain.com/privacy) to learn more about how we handle data and protect your privacy.
+You can read our [Privacy Policy](https://github.com/nrheo/skybble/edit/main/privacy-policy.md) to learn more about how we handle data and protect your privacy.
 
 ---
 
-Thanks for using Skybble — the first floating desktop notes app for Mac. Let your ideas float. ☁️
+Thanks for using Skybble — the first floating desktop notes app. Let your ideas float. ☁️
 
 
